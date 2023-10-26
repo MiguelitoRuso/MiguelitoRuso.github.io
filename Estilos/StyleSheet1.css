@@ -1,0 +1,39 @@
+﻿body {
+    background-image: url(Imagenes/Lotus.jpg);
+}
+
+.Noob{
+    color: red;
+    font-family: Algerian;
+    font-size: 66px;
+    border: 20px dashed red;
+}
+.Pro {
+    color: orange;
+    font-family: Bauhaus 93;
+    font-size: 66px;
+    border: 20px solid orange;
+}
+.Good {
+    color: yellow;
+    font-family: Broadway;
+    font-size: 66px;
+    border: 20px dotted yellow;
+}
+.Hacker {
+    color: green;
+    font-family: Cooper Black;
+    font-size: 66px;
+    border: 20px double green;
+}
+.Astra {
+    color: blue;
+    font-family: Goudy Stout;
+    font-size: 60px;
+    border: 20px revert blue;
+}
+footer {
+    color: purple;
+    font-family: Goudy Stout;
+    font-size: 60px;
+    border: 20px groove purple;
